@@ -1,15 +1,15 @@
-Tech Stack
+## Tech Stack
 
-Language: Java 17
+- Language: Java 17
 
-Framework: Spring Boot 3.5.4
+- Framework: Spring Boot 3.5.4
 
-Build: Gradle
+- Build: Gradle
 
-DB: PostgreSQL
+- DB: PostgreSQL
 
-ORM/JDBC: Spring JDBC (JdbcTemplate)
+- ORM/JDBC: Spring JDBC (JdbcTemplate)
 
-IDE: IntelliJ IDEA (권장)
+- IDE: IntelliJ IDEA (권장)
 
-CORS: 전역 허용 설정(개발 편의를 위해) – CorsConfig
+- CORS: 전역 허용 설정(개발 편의를 위해) – CorsConfig
